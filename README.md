@@ -1,5 +1,6 @@
 # Sprint-Review-and-Retrospective
 This deliverable pulls together the agile and Scrum practices that you have applied throughout this course.
+
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 User needs are going to be asked by the clients to begin the project, but the Product Owner needs to turn those into actually understandable expectations to the team. 
